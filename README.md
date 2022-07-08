@@ -1,1 +1,1 @@
-# odoo
+# public odoo addons
